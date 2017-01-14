@@ -13,9 +13,13 @@ For this project, I worked with Unfolding Maps Java package to build an interact
 A majority of the code I wrote can be found in the following folders:
 
 src/module1/
+
 src/module3/
+
 src/module4/
+
 src/module5/
+
 src/module6/
 
 Note: All of the TODOs in the file were written by me throughout the course.
